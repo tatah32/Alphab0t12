@@ -1,7 +1,7 @@
 {
     "self_mode": false,
 	"autobio": false,
-	"antihidetag": true,
+	"antihidetag": false,
 	"user_register": false,
 	"anti_delete" : false,
 	"anticall": true,
@@ -9,12 +9,12 @@
 	"auto_leave_msg": true,
 	"prefix": ".",
 	"language":"ind",
-	"ownerNumber": "62887435047326",
-	"ownerNumberr": "62887435047326",
-	"cr": "@ZeeoneOfcོ",
-	"ownername": "ZeeoneOfcོ",
-	"botname":"Ａʟᴘʜᴀʙᴏᴛ",
+	"ownerNumber": "6289668014332",
+	"ownerNumberr": "6289668014332",
+	"cr": "@Tata",
+	"ownername": "Tata",
+	"botname":"Both Sticker",
 	"thumb":"thumbnail_1.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
-	"fake": " 「  Ａʟᴘʜᴀʙᴏᴛ  」\nCreated By @ZeeoneOfcོ"
+	"fake": " 「  Tata  」\nCreated By @Tata"
 }
