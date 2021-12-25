@@ -1285,7 +1285,7 @@ if (autobio === false) return
     if (new Date() * 1 - settingstatus > 1000) {
       let _uptime = process.uptime() * 1000;
       let uptimer = clockString(_uptime);
-      await alpha.setStatus(`I'm Userbot 👾 | Runtime ${uptimer} ⏲️ | ${status}`).catch((_) => _);
+      await alpha.setStatus(`I'm Tata | Waktu Aktif ${uptimer} ⏲️ | Online`).catch((_) => _);
       settingstatus = new Date() * 1;
     }}
 		mess = {
